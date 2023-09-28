@@ -1,0 +1,19 @@
+{
+  "name": "Kaede Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ThallesKraft",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.4.3",
+    "ms": "^2.1.3"
+  }
+}
