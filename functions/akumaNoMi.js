@@ -9,7 +9,6 @@ const obterAkumaNoMi = async function(){
        i: i,
        fruto: escolhido
      }
-  
 }
 
 export { obterAkumaNoMi };
